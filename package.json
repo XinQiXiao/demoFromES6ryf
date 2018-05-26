@@ -1,0 +1,19 @@
+{
+  "name": "demofromes6ryf",
+  "version": "1.0.0",
+  "description": "a demo for learn ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinQiXiao/demoFromES6ryf.git"
+  },
+  "author": "qixin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinQiXiao/demoFromES6ryf/issues"
+  },
+  "homepage": "https://github.com/XinQiXiao/demoFromES6ryf#readme"
+}
